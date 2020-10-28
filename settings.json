@@ -1,0 +1,43 @@
+
+{
+    // This is an example settings file
+    // To use the theme copy the below color scheme into your
+    // settings.json file
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "profiles": {
+        "defaults": {
+            "fontFace": "JetBrainsMono Nerd Font Mono",
+            "fontWeight": "bold",
+            "fontSize": 9,
+            "cursorShape": "filledBox",
+            "padding": "5, 5, 5, 5",
+            "colorScheme": "Framer"
+        },
+        "list": []
+    },
+    "schemes": [
+        {
+            "background": "#181818",
+            "black": "#3a3d41",
+            "blue": "#20bcfc",
+            "brightBlack": "#656565",
+            "brightBlue": "#20bcfc",
+            "brightCyan": "#FD5799",
+            "brightGreen": "#23CCDD",
+            "brightPurple": "#B084EB",
+            "brightRed": "#EEAAFF",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#fecb6e",
+            "cyan": "#FD5799",
+            "foreground": "#EEEEEE",
+            "green": "#23CCDD",
+            "name": "Framer",
+            "purple": "#BA8CFC",
+            "red": "#FB5599",
+            "white": "#EEEEEE",
+            "yellow": "#FFCC66",
+            "cursorColor": "#FB5599"
+        }
+    ],
+    "keybindings": []
+}
